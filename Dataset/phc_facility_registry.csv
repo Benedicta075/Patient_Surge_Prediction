@@ -1,0 +1,30 @@
+facility_name,ward,lga,state,latitude,longitude,facility_type,has_electricity,has_water_supply,training_coverage,facility_functionality,previous_stock_levels,drug_stockouts
+Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,0.81,Medium,4276,1
+Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,0.66,Medium,6945,2
+Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,0.67,High,4401,2
+Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,0.63,Low,9006,1
+Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,0.57,Medium,3716,2
+Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,0.74,Low,3338,3
+Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,0.81,Low,3876,0
+Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,0.76,High,4577,1
+Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,0.62,Low,8102,2
+Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,0.95,Low,6174,3
+Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,0.86,Medium,6885,0
+University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,0.75,Low,7572,0
+505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,0.55,Medium,3295,3
+Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,0.84,High,9476,0
+Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,0.57,Low,6418,0
+Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,0.94,Medium,3961,0
+Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,0.87,High,8273,1
+202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,0.89,Medium,9900,1
+Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,0.68,High,7323,2
+Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,0.65,High,6537,1
+Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,0.53,Low,9042,2
+Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,0.56,High,6720,3
+Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,0.8,Medium,5469,3
+Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,0.54,Medium,7965,2
+Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,0.56,Low,4281,3
+Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,0.75,Low,7342,0
+Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,0.72,Low,9083,3
+Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,0.92,Medium,4336,3
+Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,0.72,Low,4430,1

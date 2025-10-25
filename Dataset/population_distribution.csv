@@ -1,0 +1,1045 @@
+month,facility_name,ward,lga,state,latitude,longitude,facility_type,has_electricity,has_water_supply,catchment_population,population_catchment
+1/17/2022,Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,32198,31773
+1/23/2022,Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,39878,40518
+1/6/2022,Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,12768,12645
+1/8/2022,Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,29709,29875
+1/1/2022,Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,23843,23977
+1/4/2022,Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,19811,19725
+1/1/2022,Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,42090,42269
+1/6/2022,Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,11523,11565
+1/17/2022,Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,55776,55754
+1/10/2022,Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,50563,50142
+1/21/2022,Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,51378,50449
+1/19/2022,University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,29749,29800
+1/25/2022,505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,31454,31545
+1/22/2022,Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,49528,50305
+1/12/2022,Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,26075,26372
+1/11/2022,Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,9999,9820
+1/20/2022,Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,23945,23528
+1/4/2022,202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,15658,15423
+1/3/2022,Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,38714,38489
+1/4/2022,Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,43077,43575
+1/11/2022,Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,22818,22694
+1/21/2022,Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,11885,12059
+1/10/2022,Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,58762,58859
+1/12/2022,Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,7402,7293
+1/4/2022,Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,29996,30288
+1/16/2022,Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,36518,36279
+1/7/2022,Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,17742,17489
+1/9/2022,Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,13333,13522
+1/8/2022,Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,54098,53963
+2/2/2022,Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,55130,55892
+2/22/2022,Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,7745,7847
+2/22/2022,Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,57597,58523
+2/23/2022,Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,33198,33597
+2/24/2022,Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,7466,7479
+2/23/2022,Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,52374,51765
+2/28/2022,Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,54349,53303
+2/26/2022,Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,48407,47824
+2/12/2022,Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,26408,26538
+2/16/2022,Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,59463,59426
+2/15/2022,Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,45507,46324
+2/26/2022,University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,44032,43664
+2/5/2022,505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,39733,40424
+2/16/2022,Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,20597,20287
+2/26/2022,Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,35171,34856
+2/22/2022,Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,53985,53275
+2/20/2022,Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,27901,27669
+2/27/2022,202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,59177,58714
+2/2/2022,Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,54257,53340
+2/6/2022,Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,23571,23217
+2/8/2022,Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,5518,5608
+2/19/2022,Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,5946,5956
+2/20/2022,Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,54363,54378
+2/18/2022,Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,46647,47388
+2/10/2022,Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,40037,40599
+2/19/2022,Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,28924,28375
+2/13/2022,Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,17880,18044
+2/12/2022,Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,12503,12308
+2/4/2022,Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,26924,27290
+3/8/2022,Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,59041,59922
+3/23/2022,Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,44435,44762
+3/14/2022,Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,8816,8884
+3/2/2022,Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,54683,54854
+3/20/2022,Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,48960,49293
+3/4/2022,Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,36158,36060
+3/6/2022,Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,14118,14350
+3/24/2022,Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,47664,47103
+3/1/2022,Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,59206,59758
+3/21/2022,Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,46358,45608
+3/21/2022,Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,24636,24247
+3/9/2022,University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,8956,9132
+3/1/2022,505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,10017,9878
+3/9/2022,Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,33759,33524
+3/23/2022,Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,16383,16691
+3/21/2022,Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,39021,39321
+3/7/2022,Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,49575,49448
+3/2/2022,202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,59662,59439
+3/16/2022,Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,23477,23309
+3/3/2022,Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,22324,22207
+3/25/2022,Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,39245,38569
+3/20/2022,Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,57204,56667
+3/18/2022,Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,26880,26620
+3/16/2022,Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,56378,57274
+3/10/2022,Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,9284,9286
+3/10/2022,Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,37732,37187
+3/13/2022,Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,30688,31290
+3/18/2022,Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,24487,24801
+3/3/2022,Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,33943,34477
+4/9/2022,Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,26164,25800
+4/5/2022,Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,13385,13631
+4/5/2022,Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,48075,48076
+4/15/2022,Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,9874,9873
+4/21/2022,Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,31275,30948
+4/15/2022,Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,27455,27623
+4/9/2022,Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,10700,10519
+4/25/2022,Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,42415,42758
+4/9/2022,Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,13776,13748
+4/18/2022,Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,52918,53871
+4/27/2022,Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,38119,37975
+4/8/2022,University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,28888,28724
+4/23/2022,505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,7341,7271
+4/18/2022,Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,20024,20350
+4/3/2022,Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,36734,36963
+4/9/2022,Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,38343,38055
+4/23/2022,Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,31622,32029
+4/15/2022,202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,13865,14146
+4/5/2022,Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,21191,21389
+4/20/2022,Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,20347,20187
+4/17/2022,Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,28877,28970
+4/11/2022,Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,12307,12396
+4/16/2022,Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,26024,26327
+4/1/2022,Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,14425,14533
+4/13/2022,Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,10123,10175
+4/22/2022,Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,45925,46610
+4/26/2022,Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,50566,50210
+4/13/2022,Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,31389,31377
+4/21/2022,Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,43305,42695
+5/22/2022,Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,52582,53654
+5/15/2022,Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,38694,38267
+5/8/2022,Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,19625,19399
+5/23/2022,Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,14982,15247
+5/24/2022,Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,14631,14672
+5/11/2022,Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,5302,5334
+5/1/2022,Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,25744,25397
+5/23/2022,Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,40082,40107
+5/20/2022,Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,18703,18885
+5/6/2022,Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,13271,13477
+5/18/2022,Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,17397,17317
+5/3/2022,University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,5990,6025
+5/4/2022,505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,12911,12905
+5/18/2022,Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,30481,30649
+5/2/2022,Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,38588,37861
+5/10/2022,Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,46653,46829
+5/5/2022,Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,31780,31399
+5/27/2022,202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,23575,23410
+5/6/2022,Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,45980,46410
+5/20/2022,Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,49491,49490
+5/3/2022,Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,49967,50157
+5/18/2022,Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,26329,26091
+5/11/2022,Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,43669,43909
+5/20/2022,Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,48509,47787
+5/10/2022,Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,58506,58598
+5/2/2022,Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,6173,6068
+5/7/2022,Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,57945,57145
+5/7/2022,Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,12584,12677
+5/6/2022,Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,6052,6055
+6/6/2022,Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,9895,9932
+6/4/2022,Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,42670,41856
+6/6/2022,Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,56475,56548
+6/23/2022,Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,32900,33114
+6/13/2022,Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,22846,22893
+6/12/2022,Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,58379,59151
+6/19/2022,Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,21333,21271
+6/5/2022,Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,23199,22999
+6/9/2022,Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,25018,24632
+6/13/2022,Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,56308,55665
+6/26/2022,Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,55318,55352
+6/22/2022,University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,15589,15707
+6/16/2022,505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,16398,16271
+6/10/2022,Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,16765,16712
+6/16/2022,Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,34376,34528
+6/10/2022,Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,35899,35956
+6/10/2022,Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,56968,56707
+6/19/2022,202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,49393,50137
+6/16/2022,Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,34284,34162
+6/16/2022,Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,29828,29767
+6/4/2022,Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,34971,34989
+6/23/2022,Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,57675,57562
+6/19/2022,Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,23704,23259
+6/9/2022,Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,17435,17667
+6/8/2022,Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,59907,59842
+6/21/2022,Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,36780,36479
+6/6/2022,Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,55865,55780
+6/2/2022,Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,27501,27605
+6/8/2022,Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,29131,28833
+7/14/2022,Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,33104,32825
+7/2/2022,Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,24765,25063
+7/18/2022,Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,23331,22890
+7/14/2022,Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,51584,51000
+7/1/2022,Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,11155,11379
+7/26/2022,Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,20145,20098
+7/10/2022,Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,40623,40201
+7/6/2022,Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,6210,6274
+7/21/2022,Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,56252,55689
+7/22/2022,Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,18469,18823
+7/11/2022,Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,48462,49292
+7/23/2022,University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,48667,48150
+7/11/2022,505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,47611,46711
+7/16/2022,Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,34086,34074
+7/19/2022,Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,5313,5357
+7/2/2022,Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,43413,43759
+7/6/2022,Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,23875,24156
+7/8/2022,202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,46901,47755
+7/19/2022,Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,55710,54683
+7/27/2022,Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,26850,27316
+7/1/2022,Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,48750,48729
+7/6/2022,Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,27696,27798
+7/26/2022,Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,8937,8911
+7/16/2022,Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,49202,48930
+7/23/2022,Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,8064,8180
+7/10/2022,Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,9779,9784
+7/4/2022,Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,29657,30102
+7/15/2022,Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,15488,15624
+7/2/2022,Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,21689,21973
+8/17/2022,Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,20409,20128
+8/12/2022,Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,6663,6753
+8/26/2022,Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,10183,10059
+8/2/2022,Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,8480,8441
+8/18/2022,Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,6182,6206
+8/23/2022,Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,55712,55323
+8/11/2022,Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,40763,41557
+8/21/2022,Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,59241,59575
+8/4/2022,Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,37294,37521
+8/11/2022,Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,39983,40369
+8/8/2022,Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,33996,34426
+8/18/2022,University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,51502,51133
+8/1/2022,505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,37492,36933
+8/1/2022,Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,8011,7914
+8/1/2022,Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,30216,30607
+8/24/2022,Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,59335,59280
+8/21/2022,Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,41807,41572
+8/4/2022,202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,11071,10890
+8/20/2022,Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,57493,57203
+8/8/2022,Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,56824,55858
+8/20/2022,Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,45734,46353
+8/18/2022,Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,42970,42876
+8/18/2022,Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,33424,33447
+8/2/2022,Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,50198,50382
+8/16/2022,Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,30773,30478
+8/19/2022,Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,58875,59226
+8/22/2022,Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,39201,39140
+8/3/2022,Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,19044,19042
+8/13/2022,Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,40700,39923
+9/21/2022,Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,12199,12384
+9/25/2022,Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,39758,39413
+9/7/2022,Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,13650,13757
+9/9/2022,Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,11371,11270
+9/9/2022,Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,22930,23031
+9/26/2022,Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,20481,20226
+9/18/2022,Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,58111,58231
+9/3/2022,Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,27307,27517
+9/17/2022,Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,45414,45555
+9/23/2022,Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,30112,30011
+9/1/2022,Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,41124,40955
+9/7/2022,University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,26387,26760
+9/1/2022,505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,32430,32629
+9/23/2022,Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,50226,50910
+9/13/2022,Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,34740,34415
+9/1/2022,Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,13813,13982
+9/8/2022,Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,31320,30905
+9/7/2022,202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,17839,17891
+9/19/2022,Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,54899,54679
+9/14/2022,Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,25791,25910
+9/14/2022,Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,27070,26969
+9/2/2022,Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,27035,26591
+9/11/2022,Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,30160,30602
+9/21/2022,Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,36079,35692
+9/18/2022,Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,41549,41277
+9/19/2022,Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,21977,22060
+9/6/2022,Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,29585,29038
+9/16/2022,Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,7844,7754
+9/16/2022,Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,54214,54975
+10/20/2022,Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,51678,51763
+10/4/2022,Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,48542,48135
+10/10/2022,Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,23617,23225
+10/24/2022,Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,21139,20853
+10/10/2022,Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,56205,55198
+10/20/2022,Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,41827,42185
+10/7/2022,Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,40358,39815
+10/1/2022,Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,34530,34846
+10/3/2022,Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,44958,45296
+10/16/2022,Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,17413,17295
+10/8/2022,Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,24984,25271
+10/22/2022,University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,39419,39602
+10/11/2022,505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,20253,19859
+10/9/2022,Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,15541,15326
+10/1/2022,Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,5535,5494
+10/3/2022,Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,39618,40173
+10/16/2022,Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,32494,32140
+10/25/2022,202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,41608,41625
+10/8/2022,Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,45182,44953
+10/27/2022,Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,44850,44705
+10/23/2022,Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,20149,20291
+10/28/2022,Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,39489,39939
+10/16/2022,Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,17971,18245
+10/19/2022,Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,25096,24715
+10/5/2022,Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,25979,26278
+10/10/2022,Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,30796,30940
+10/28/2022,Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,45978,46561
+10/20/2022,Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,41551,41012
+10/12/2022,Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,31217,31217
+11/2/2022,Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,38720,39058
+11/9/2022,Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,29044,29409
+11/2/2022,Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,10170,10111
+11/3/2022,Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,56621,55972
+11/12/2022,Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,41535,40975
+11/1/2022,Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,39772,39163
+11/13/2022,Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,53461,54379
+11/21/2022,Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,41227,41078
+11/16/2022,Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,45878,46562
+11/22/2022,Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,27454,27971
+11/1/2022,Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,15479,15488
+11/9/2022,University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,15611,15377
+11/24/2022,505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,37609,37143
+11/14/2022,Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,48252,47357
+11/26/2022,Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,7391,7259
+11/18/2022,Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,22691,22317
+11/1/2022,Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,9615,9476
+11/13/2022,202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,25886,25541
+11/23/2022,Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,46331,47027
+11/1/2022,Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,21599,21908
+11/4/2022,Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,17468,17182
+11/24/2022,Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,47257,47172
+11/21/2022,Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,34976,35150
+11/7/2022,Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,21773,21787
+11/1/2022,Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,25066,25152
+11/27/2022,Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,7002,7137
+11/12/2022,Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,16371,16659
+11/28/2022,Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,33437,33355
+11/10/2022,Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,32915,32779
+12/17/2022,Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,32959,33327
+12/27/2022,Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,10546,10629
+12/1/2022,Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,24707,24623
+12/25/2022,Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,32381,31880
+12/4/2022,Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,18361,18007
+12/15/2022,Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,45820,46539
+12/15/2022,Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,29683,29865
+12/17/2022,Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,54929,55781
+12/8/2022,Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,50140,49592
+12/11/2022,Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,17632,17548
+12/26/2022,Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,50919,51250
+12/13/2022,University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,28680,29211
+12/25/2022,505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,59026,59585
+12/5/2022,Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,6227,6352
+12/24/2022,Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,25920,25523
+12/16/2022,Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,38396,38912
+12/17/2022,Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,24555,24253
+12/2/2022,202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,30283,30528
+12/26/2022,Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,42501,42800
+12/20/2022,Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,20471,20629
+12/10/2022,Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,32864,32898
+12/23/2022,Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,6090,6110
+12/14/2022,Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,38929,38627
+12/11/2022,Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,11302,11519
+12/6/2022,Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,59340,59523
+12/15/2022,Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,44811,45699
+12/4/2022,Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,49458,48539
+12/10/2022,Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,49877,49104
+12/17/2022,Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,12977,12932
+1/5/2023,Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,8365,8359
+1/3/2023,Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,44894,45025
+1/23/2023,Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,8255,8135
+1/2/2023,Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,10939,10958
+1/5/2023,Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,16735,16906
+1/9/2023,Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,13509,13474
+1/1/2023,Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,46574,46266
+1/11/2023,Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,29566,29769
+1/23/2023,Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,8666,8712
+1/17/2023,Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,18271,17989
+1/1/2023,Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,46501,45845
+1/18/2023,University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,55083,54075
+1/14/2023,505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,20380,20609
+1/2/2023,Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,6196,6123
+1/4/2023,Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,16175,16243
+1/12/2023,Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,35373,34858
+1/27/2023,Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,36280,35589
+1/24/2023,202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,39838,40208
+1/7/2023,Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,53464,53277
+1/12/2023,Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,28210,28688
+1/28/2023,Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,13754,13530
+1/26/2023,Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,50748,51166
+1/3/2023,Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,47160,47360
+1/2/2023,Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,36729,37422
+1/13/2023,Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,8155,8146
+1/27/2023,Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,20836,20772
+1/23/2023,Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,22893,22670
+1/14/2023,Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,28565,29051
+1/22/2023,Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,28318,28132
+2/15/2023,Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,55831,56114
+2/27/2023,Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,54091,53300
+2/10/2023,Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,40953,41049
+2/25/2023,Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,6708,6651
+2/5/2023,Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,35827,35476
+2/19/2023,Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,29240,28953
+2/11/2023,Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,16221,16085
+2/11/2023,Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,14478,14457
+2/24/2023,Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,22636,22484
+2/7/2023,Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,7018,7066
+2/18/2023,Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,11209,11190
+2/23/2023,University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,48429,48986
+2/1/2023,505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,48358,48633
+2/27/2023,Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,49040,48136
+2/10/2023,Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,33671,33331
+2/14/2023,Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,43075,43641
+2/14/2023,Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,56094,57064
+2/13/2023,202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,7637,7519
+2/24/2023,Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,13464,13374
+2/26/2023,Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,10886,11095
+2/28/2023,Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,34519,34071
+2/21/2023,Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,48130,48896
+2/26/2023,Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,20292,20014
+2/18/2023,Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,7733,7817
+2/3/2023,Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,53821,53581
+2/6/2023,Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,52817,53823
+2/12/2023,Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,18415,18583
+2/20/2023,Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,9741,9688
+2/26/2023,Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,56783,56161
+3/1/2023,Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,47995,48699
+3/2/2023,Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,22319,22320
+3/14/2023,Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,46832,47724
+3/28/2023,Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,46818,47765
+3/20/2023,Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,13302,13066
+3/21/2023,Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,50798,50548
+3/27/2023,Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,27353,27552
+3/9/2023,Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,47965,47478
+3/5/2023,Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,20022,20327
+3/10/2023,Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,14581,14685
+3/14/2023,Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,49626,49978
+3/3/2023,University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,46639,45815
+3/4/2023,505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,15115,15392
+3/27/2023,Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,52740,52828
+3/9/2023,Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,46490,46055
+3/24/2023,Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,25610,25389
+3/26/2023,Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,10522,10608
+3/5/2023,202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,20122,20044
+3/17/2023,Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,11956,11778
+3/14/2023,Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,59769,59293
+3/13/2023,Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,7255,7122
+3/24/2023,Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,11843,11817
+3/28/2023,Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,23798,23645
+3/20/2023,Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,21488,21259
+3/21/2023,Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,7441,7399
+3/8/2023,Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,52192,52006
+3/10/2023,Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,8843,8798
+3/23/2023,Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,31506,31107
+3/24/2023,Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,43586,43105
+4/26/2023,Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,28853,28436
+4/8/2023,Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,17385,17297
+4/6/2023,Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,56998,56132
+4/20/2023,Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,26093,25690
+4/26/2023,Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,56657,55586
+4/24/2023,Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,8829,8865
+4/24/2023,Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,22040,21666
+4/14/2023,Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,16894,17194
+4/23/2023,Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,19665,19383
+4/2/2023,Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,36537,35927
+4/11/2023,Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,45124,45371
+4/3/2023,University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,14275,14513
+4/8/2023,505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,58744,59117
+4/17/2023,Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,7441,7305
+4/10/2023,Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,5690,5711
+4/12/2023,Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,43583,43197
+4/14/2023,Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,5235,5248
+4/14/2023,202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,52375,53235
+4/19/2023,Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,32911,32920
+4/14/2023,Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,33350,33360
+4/20/2023,Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,40712,40591
+4/13/2023,Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,45605,45489
+4/21/2023,Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,28990,28795
+4/27/2023,Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,43041,42510
+4/14/2023,Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,39540,38800
+4/14/2023,Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,7180,7278
+4/27/2023,Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,8840,8752
+4/15/2023,Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,30749,31271
+4/16/2023,Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,46696,46502
+5/26/2023,Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,53954,54069
+5/14/2023,Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,33230,32674
+5/14/2023,Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,33716,33529
+5/24/2023,Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,20575,20572
+5/14/2023,Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,49347,49774
+5/28/2023,Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,51642,51998
+5/6/2023,Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,49730,49032
+5/28/2023,Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,57376,57953
+5/16/2023,Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,57692,57812
+5/27/2023,Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,12565,12454
+5/26/2023,Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,18427,18581
+5/6/2023,University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,13359,13205
+5/17/2023,505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,14253,14379
+5/15/2023,Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,38744,38742
+5/21/2023,Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,54582,54277
+5/3/2023,Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,50323,50740
+5/2/2023,Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,37719,37432
+5/17/2023,202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,46193,45805
+5/27/2023,Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,38367,38484
+5/19/2023,Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,21863,21852
+5/25/2023,Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,35749,36292
+5/26/2023,Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,30001,30435
+5/12/2023,Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,5145,5090
+5/7/2023,Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,37655,38304
+5/21/2023,Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,10157,10254
+5/23/2023,Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,8979,9020
+5/6/2023,Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,50491,51342
+5/12/2023,Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,43978,44806
+5/6/2023,Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,30086,30685
+6/27/2023,Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,60122,59936
+6/6/2023,Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,28051,27505
+6/12/2023,Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,35979,36489
+6/1/2023,Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,11036,10959
+6/3/2023,Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,50326,50114
+6/26/2023,Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,16163,16089
+6/26/2023,Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,51496,50836
+6/13/2023,Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,23407,23447
+6/18/2023,Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,46024,45594
+6/27/2023,Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,29498,29704
+6/10/2023,Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,49848,49251
+6/24/2023,University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,18009,17763
+6/4/2023,505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,19985,19890
+6/11/2023,Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,28257,28666
+6/13/2023,Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,55407,54920
+6/12/2023,Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,32947,32462
+6/26/2023,Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,59277,59088
+6/28/2023,202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,11844,11815
+6/16/2023,Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,35203,35171
+6/5/2023,Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,44652,44255
+6/17/2023,Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,35663,35179
+6/24/2023,Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,15525,15560
+6/22/2023,Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,55865,56445
+6/18/2023,Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,17820,17605
+6/17/2023,Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,44789,44057
+6/21/2023,Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,25367,25539
+6/16/2023,Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,9235,9416
+6/8/2023,Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,6351,6458
+6/10/2023,Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,32698,32150
+7/15/2023,Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,8082,8036
+7/19/2023,Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,46639,46823
+7/28/2023,Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,53138,53869
+7/25/2023,Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,52779,52865
+7/21/2023,Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,38098,37777
+7/28/2023,Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,47902,47057
+7/11/2023,Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,18447,18273
+7/20/2023,Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,36096,35606
+7/6/2023,Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,25542,25554
+7/7/2023,Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,50585,49687
+7/11/2023,Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,31507,31795
+7/22/2023,University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,18908,18873
+7/5/2023,505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,54577,54666
+7/13/2023,Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,34188,34552
+7/10/2023,Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,8941,9045
+7/6/2023,Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,21361,21408
+7/25/2023,Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,31524,32057
+7/18/2023,202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,32789,33433
+7/3/2023,Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,6300,6292
+7/21/2023,Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,36022,35529
+7/3/2023,Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,56155,55486
+7/11/2023,Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,51299,52039
+7/21/2023,Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,27060,27520
+7/18/2023,Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,38246,38940
+7/6/2023,Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,5316,5356
+7/9/2023,Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,20703,20628
+7/6/2023,Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,20577,20480
+7/25/2023,Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,10096,9938
+7/9/2023,Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,46229,45722
+8/8/2023,Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,49403,48872
+8/14/2023,Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,41420,41099
+8/11/2023,Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,16874,16985
+8/23/2023,Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,5222,5139
+8/22/2023,Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,47772,47019
+8/2/2023,Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,42563,42034
+8/7/2023,Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,7404,7270
+8/18/2023,Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,36554,36276
+8/20/2023,Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,14949,14873
+8/18/2023,Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,36298,36016
+8/26/2023,Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,28509,28866
+8/21/2023,University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,13071,13295
+8/20/2023,505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,28483,28824
+8/28/2023,Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,42774,43228
+8/1/2023,Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,17555,17689
+8/12/2023,Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,47756,47995
+8/22/2023,Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,5945,5884
+8/5/2023,202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,26440,26560
+8/10/2023,Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,55025,54046
+8/24/2023,Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,9529,9367
+8/18/2023,Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,57404,56314
+8/9/2023,Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,38915,39140
+8/4/2023,Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,5913,5832
+8/11/2023,Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,32979,32525
+8/18/2023,Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,6806,6757
+8/5/2023,Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,22361,22363
+8/25/2023,Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,56581,56728
+8/20/2023,Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,33169,32983
+8/16/2023,Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,6115,6141
+9/17/2023,Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,35982,36704
+9/12/2023,Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,13888,13754
+9/7/2023,Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,25713,26141
+9/15/2023,Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,57728,56600
+9/23/2023,Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,42766,42667
+9/3/2023,Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,59857,58873
+9/8/2023,Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,40212,39959
+9/10/2023,Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,44682,44048
+9/10/2023,Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,55844,55338
+9/6/2023,Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,37008,37141
+9/13/2023,Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,30391,30926
+9/6/2023,University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,22873,23247
+9/9/2023,505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,19434,19675
+9/1/2023,Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,57463,56376
+9/1/2023,Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,37494,37375
+9/19/2023,Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,35253,35055
+9/28/2023,Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,30915,31289
+9/3/2023,202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,46758,47569
+9/11/2023,Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,43795,43760
+9/23/2023,Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,26593,26201
+9/6/2023,Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,43698,43084
+9/22/2023,Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,44562,44836
+9/13/2023,Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,37957,37983
+9/25/2023,Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,23861,24301
+9/27/2023,Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,16059,16301
+9/16/2023,Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,24102,24211
+9/4/2023,Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,54834,53859
+9/21/2023,Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,27070,27391
+9/1/2023,Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,48103,47619
+10/3/2023,Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,47700,46865
+10/7/2023,Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,56626,56722
+10/26/2023,Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,51358,50440
+10/12/2023,Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,17331,17164
+10/23/2023,Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,5603,5606
+10/17/2023,Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,42151,42686
+10/20/2023,Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,31650,31861
+10/1/2023,Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,14414,14293
+10/25/2023,Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,18145,18411
+10/4/2023,Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,34295,33684
+10/18/2023,Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,10316,10217
+10/16/2023,University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,42732,42672
+10/21/2023,505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,25090,24775
+10/3/2023,Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,9281,9100
+10/6/2023,Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,57442,56322
+10/11/2023,Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,43881,44148
+10/2/2023,Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,43228,43384
+10/20/2023,202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,41596,41140
+10/1/2023,Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,55954,56120
+10/15/2023,Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,21323,20942
+10/22/2023,Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,10542,10438
+10/5/2023,Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,13136,13332
+10/6/2023,Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,20882,20757
+10/9/2023,Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,43195,43906
+10/16/2023,Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,54594,54239
+10/5/2023,Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,52968,52134
+10/12/2023,Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,41837,42035
+10/28/2023,Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,30527,30332
+10/23/2023,Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,45382,44749
+11/27/2023,Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,51596,51106
+11/1/2023,Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,28512,28877
+11/20/2023,Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,11816,12026
+11/15/2023,Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,22962,23001
+11/18/2023,Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,25688,26207
+11/23/2023,Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,8234,8287
+11/12/2023,Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,54943,55656
+11/28/2023,Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,39687,39023
+11/25/2023,Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,17043,17121
+11/9/2023,Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,37876,38435
+11/26/2023,Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,11883,11996
+11/4/2023,University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,47446,46630
+11/19/2023,505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,19085,19089
+11/16/2023,Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,43649,43735
+11/15/2023,Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,38777,38898
+11/14/2023,Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,51398,51163
+11/4/2023,Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,24307,24118
+11/3/2023,202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,23125,22890
+11/13/2023,Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,7421,7522
+11/7/2023,Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,53232,52398
+11/2/2023,Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,32666,32333
+11/3/2023,Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,49658,49591
+11/7/2023,Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,28179,28177
+11/24/2023,Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,26000,26452
+11/10/2023,Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,8098,7960
+11/15/2023,Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,52114,52188
+11/28/2023,Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,47976,47044
+11/22/2023,Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,38679,39444
+11/2/2023,Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,58001,57914
+12/9/2023,Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,7001,6998
+12/6/2023,Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,50984,50187
+12/2/2023,Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,44985,45094
+12/2/2023,Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,25825,25805
+12/2/2023,Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,22963,22744
+12/9/2023,Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,38896,38502
+12/11/2023,Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,23737,23709
+12/6/2023,Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,53962,53516
+12/7/2023,Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,32932,33205
+12/4/2023,Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,49189,49167
+12/1/2023,Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,11958,12177
+12/16/2023,University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,29715,29421
+12/3/2023,505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,52821,52846
+12/9/2023,Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,59283,59608
+12/13/2023,Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,42779,42885
+12/22/2023,Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,5482,5582
+12/19/2023,Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,50012,50759
+12/28/2023,202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,33869,34356
+12/6/2023,Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,31467,31627
+12/10/2023,Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,10081,9936
+12/1/2023,Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,16533,16273
+12/26/2023,Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,26152,25758
+12/27/2023,Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,53244,52970
+12/15/2023,Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,44779,45288
+12/15/2023,Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,23699,23564
+12/18/2023,Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,8136,8023
+12/28/2023,Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,30606,31118
+12/3/2023,Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,12963,12907
+12/14/2023,Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,12172,12295
+1/18/2024,Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,30708,30935
+1/7/2024,Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,44747,44988
+1/7/2024,Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,28441,28482
+1/26/2024,Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,13171,13044
+1/22/2024,Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,60095,59231
+1/17/2024,Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,38286,37847
+1/19/2024,Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,50683,49735
+1/12/2024,Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,20168,20330
+1/17/2024,Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,46741,46174
+1/3/2024,Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,21031,20714
+1/28/2024,Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,34862,35564
+1/7/2024,University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,37109,37409
+1/21/2024,505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,39083,39647
+1/19/2024,Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,18069,17884
+1/15/2024,Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,48996,49848
+1/3/2024,Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,57774,57427
+1/18/2024,Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,24379,24331
+1/20/2024,202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,26624,26189
+1/25/2024,Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,8874,8718
+1/9/2024,Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,5017,5099
+1/11/2024,Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,54381,53368
+1/23/2024,Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,42615,42541
+1/7/2024,Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,39067,38792
+1/1/2024,Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,7747,7684
+1/16/2024,Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,45533,46373
+1/10/2024,Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,36585,35944
+1/12/2024,Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,51786,52801
+1/25/2024,Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,33190,33451
+1/25/2024,Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,20174,20301
+2/6/2024,Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,24548,24140
+2/13/2024,Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,45436,45650
+2/4/2024,Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,45283,44878
+2/20/2024,Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,12497,12337
+2/28/2024,Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,10196,10367
+2/13/2024,Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,18361,18693
+2/17/2024,Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,14849,14573
+2/6/2024,Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,52323,51892
+2/6/2024,Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,7297,7319
+2/17/2024,Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,37780,37457
+2/22/2024,Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,44157,44729
+2/11/2024,University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,28091,28238
+2/10/2024,505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,13002,12765
+2/21/2024,Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,24490,24784
+2/11/2024,Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,45930,46585
+2/2/2024,Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,20833,21022
+2/19/2024,Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,50259,50596
+2/10/2024,202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,56681,56691
+2/4/2024,Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,58706,59228
+2/1/2024,Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,5760,5793
+2/3/2024,Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,57153,56894
+2/19/2024,Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,9375,9290
+2/7/2024,Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,17726,17440
+2/8/2024,Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,14695,14581
+2/15/2024,Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,16065,15912
+2/5/2024,Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,44525,44158
+2/8/2024,Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,26005,25520
+2/9/2024,Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,58693,59376
+2/10/2024,Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,46628,46155
+3/7/2024,Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,11173,11382
+3/3/2024,Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,42388,42960
+3/26/2024,Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,53001,53923
+3/3/2024,Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,58845,58291
+3/10/2024,Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,35236,35028
+3/11/2024,Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,6505,6588
+3/22/2024,Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,41809,41063
+3/11/2024,Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,38748,38053
+3/18/2024,Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,6913,6842
+3/5/2024,Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,36212,36514
+3/12/2024,Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,24798,25086
+3/9/2024,University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,24290,24183
+3/28/2024,505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,40371,40282
+3/22/2024,Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,16835,16615
+3/13/2024,Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,14777,14839
+3/22/2024,Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,28049,28044
+3/15/2024,Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,26502,26819
+3/11/2024,202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,43645,44072
+3/24/2024,Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,7744,7823
+3/16/2024,Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,42685,42993
+3/16/2024,Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,5255,5223
+3/26/2024,Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,25944,26105
+3/7/2024,Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,40820,41028
+3/11/2024,Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,22152,22184
+3/17/2024,Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,51574,52085
+3/19/2024,Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,53698,54260
+3/19/2024,Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,45403,45753
+3/9/2024,Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,33804,34412
+3/17/2024,Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,31405,31972
+4/20/2024,Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,60033,59827
+4/7/2024,Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,28349,28290
+4/28/2024,Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,17536,17536
+4/25/2024,Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,11265,11350
+4/18/2024,Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,44078,44245
+4/15/2024,Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,49676,50605
+4/25/2024,Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,43619,44287
+4/21/2024,Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,36708,36921
+4/1/2024,Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,39490,38945
+4/20/2024,Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,18046,18216
+4/26/2024,Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,17802,17910
+4/15/2024,University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,12127,12354
+4/23/2024,505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,42437,43066
+4/17/2024,Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,22679,22841
+4/21/2024,Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,56343,55896
+4/24/2024,Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,31452,31370
+4/2/2024,Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,24403,24329
+4/17/2024,202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,56084,57221
+4/2/2024,Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,50552,49957
+4/9/2024,Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,40581,40805
+4/6/2024,Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,9734,9602
+4/24/2024,Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,57500,58168
+4/9/2024,Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,9100,8940
+4/10/2024,Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,56959,56995
+4/16/2024,Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,33073,33025
+4/28/2024,Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,34155,33500
+4/4/2024,Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,56883,57541
+4/26/2024,Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,15307,15534
+4/26/2024,Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,46178,46179
+5/19/2024,Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,25078,24735
+5/20/2024,Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,28619,28244
+5/6/2024,Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,23106,23202
+5/3/2024,Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,47083,46330
+5/14/2024,Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,23583,23761
+5/5/2024,Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,36143,35585
+5/8/2024,Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,19487,19798
+5/25/2024,Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,40971,40743
+5/19/2024,Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,58759,58235
+5/6/2024,Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,43828,42985
+5/2/2024,Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,54575,54053
+5/20/2024,University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,28360,28028
+5/12/2024,505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,41953,41886
+5/13/2024,Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,14848,15130
+5/4/2024,Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,43876,43565
+5/27/2024,Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,45881,46065
+5/27/2024,Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,14566,14553
+5/11/2024,202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,11131,11072
+5/2/2024,Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,5298,5282
+5/15/2024,Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,13686,13570
+5/12/2024,Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,22830,23197
+5/23/2024,Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,27271,27221
+5/13/2024,Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,38471,38936
+5/12/2024,Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,5514,5476
+5/28/2024,Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,34529,33910
+5/26/2024,Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,43271,43305
+5/12/2024,Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,21754,22009
+5/13/2024,Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,19725,19863
+5/14/2024,Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,8234,8152
+6/12/2024,Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,46141,46771
+6/7/2024,Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,10891,10712
+6/11/2024,Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,59230,59413
+6/27/2024,Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,53423,53580
+6/10/2024,Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,47596,47260
+6/1/2024,Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,7347,7316
+6/9/2024,Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,22565,22246
+6/11/2024,Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,39805,40353
+6/24/2024,Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,52894,53496
+6/7/2024,Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,38764,38767
+6/2/2024,Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,11366,11538
+6/27/2024,University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,36273,36365
+6/25/2024,505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,59643,59753
+6/12/2024,Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,11579,11578
+6/5/2024,Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,30570,31069
+6/1/2024,Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,20124,20405
+6/18/2024,Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,23511,23704
+6/1/2024,202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,27677,27284
+6/11/2024,Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,32426,32675
+6/24/2024,Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,32296,32262
+6/9/2024,Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,20999,21318
+6/27/2024,Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,42594,43177
+6/23/2024,Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,35694,35690
+6/6/2024,Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,37220,37564
+6/6/2024,Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,15774,15579
+6/25/2024,Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,36227,36287
+6/8/2024,Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,59939,59603
+6/5/2024,Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,33481,33270
+6/14/2024,Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,46542,46558
+7/6/2024,Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,42161,42246
+7/8/2024,Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,59325,58432
+7/9/2024,Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,49692,49610
+7/17/2024,Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,20950,21015
+7/16/2024,Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,48577,48358
+7/19/2024,Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,33023,33407
+7/15/2024,Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,26448,25935
+7/20/2024,Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,19586,19614
+7/21/2024,Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,48933,49788
+7/10/2024,Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,8440,8502
+7/19/2024,Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,26204,26314
+7/25/2024,University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,30330,30902
+7/18/2024,505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,20373,20516
+7/22/2024,Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,26126,26475
+7/11/2024,Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,4984,5023
+7/6/2024,Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,9778,9733
+7/26/2024,Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,49134,48778
+7/11/2024,202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,12752,12612
+7/17/2024,Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,19228,19217
+7/28/2024,Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,52800,52683
+7/20/2024,Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,29478,29005
+7/7/2024,Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,39247,38543
+7/16/2024,Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,40826,40108
+7/28/2024,Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,24401,24293
+7/15/2024,Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,55201,55067
+7/1/2024,Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,24392,24565
+7/4/2024,Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,54086,53638
+7/25/2024,Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,55683,55922
+7/21/2024,Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,48645,48046
+8/23/2024,Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,46088,46781
+8/3/2024,Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,13939,14017
+8/15/2024,Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,38861,39402
+8/28/2024,Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,58248,57349
+8/12/2024,Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,33306,33599
+8/20/2024,Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,28614,28797
+8/25/2024,Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,31666,31259
+8/25/2024,Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,24253,24347
+8/10/2024,Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,56027,56252
+8/13/2024,Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,41255,40922
+8/26/2024,Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,24905,24607
+8/11/2024,University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,5378,5392
+8/1/2024,505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,54049,53009
+8/4/2024,Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,27836,28337
+8/28/2024,Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,22589,22390
+8/11/2024,Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,51413,51418
+8/18/2024,Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,18560,18284
+8/26/2024,202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,57192,57663
+8/21/2024,Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,59093,59827
+8/21/2024,Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,38709,38591
+8/3/2024,Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,44144,44466
+8/18/2024,Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,40316,40587
+8/24/2024,Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,33361,33902
+8/11/2024,Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,13877,13969
+8/11/2024,Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,10350,10475
+8/12/2024,Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,43387,43303
+8/19/2024,Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,12171,11960
+8/26/2024,Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,49570,48896
+8/15/2024,Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,47409,47288
+9/2/2024,Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,58807,59695
+9/14/2024,Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,33625,33336
+9/11/2024,Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,35183,35587
+9/16/2024,Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,50092,49771
+9/22/2024,Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,13108,13071
+9/8/2024,Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,51405,50589
+9/27/2024,Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,28545,28353
+9/12/2024,Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,25562,25123
+9/6/2024,Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,36891,37323
+9/9/2024,Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,39616,39699
+9/19/2024,Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,24652,24749
+9/6/2024,University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,50544,50095
+9/28/2024,505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,53636,54161
+9/13/2024,Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,6849,6971
+9/6/2024,Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,52226,51341
+9/24/2024,Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,45893,45102
+9/12/2024,Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,18830,18760
+9/6/2024,202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,29061,29525
+9/18/2024,Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,30276,30829
+9/7/2024,Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,24312,24192
+9/25/2024,Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,33290,32928
+9/8/2024,Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,27652,28001
+9/6/2024,Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,16259,16272
+9/13/2024,Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,8850,8751
+9/19/2024,Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,51075,51987
+9/27/2024,Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,59828,59128
+9/20/2024,Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,56669,55756
+9/26/2024,Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,59819,59966
+9/15/2024,Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,40503,40926
+10/23/2024,Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,36459,36619
+10/14/2024,Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,25274,25381
+10/26/2024,Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,47364,47921
+10/1/2024,Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,7330,7382
+10/5/2024,Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,42240,42291
+10/18/2024,Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,17919,17643
+10/10/2024,Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,54566,53918
+10/16/2024,Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,55279,55230
+10/27/2024,Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,53668,54504
+10/8/2024,Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,47525,47548
+10/18/2024,Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,8120,8097
+10/4/2024,University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,19113,19206
+10/4/2024,505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,14899,15012
+10/12/2024,Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,29795,30076
+10/5/2024,Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,52741,53268
+10/16/2024,Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,6084,5984
+10/22/2024,Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,36906,36424
+10/26/2024,202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,10377,10194
+10/24/2024,Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,22322,21976
+10/7/2024,Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,38954,39666
+10/1/2024,Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,12645,12794
+10/7/2024,Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,20475,20593
+10/8/2024,Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,12116,12319
+10/10/2024,Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,38669,38023
+10/3/2024,Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,31463,32058
+10/19/2024,Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,58704,59742
+10/13/2024,Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,52623,53259
+10/21/2024,Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,41465,41337
+10/28/2024,Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,31942,32393
+11/26/2024,Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,16512,16292
+11/2/2024,Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,19014,19291
+11/28/2024,Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,36781,36674
+11/4/2024,Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,26467,26598
+11/20/2024,Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,9865,9865
+11/17/2024,Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,53218,52822
+11/13/2024,Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,29327,29716
+11/24/2024,Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,55818,56635
+11/7/2024,Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,43720,43887
+11/13/2024,Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,23556,23489
+11/1/2024,Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,39103,39332
+11/13/2024,University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,38374,38115
+11/6/2024,505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,20935,20880
+11/25/2024,Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,52015,51551
+11/15/2024,Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,52146,52941
+11/13/2024,Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,58341,58319
+11/10/2024,Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,40215,40275
+11/28/2024,202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,32315,32369
+11/6/2024,Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,21324,21098
+11/1/2024,Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,40637,40908
+11/14/2024,Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,43192,42457
+11/8/2024,Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,32291,32658
+11/24/2024,Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,21406,21523
+11/28/2024,Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,36181,36254
+11/11/2024,Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,52966,53801
+11/21/2024,Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,57563,57966
+11/22/2024,Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,45910,46722
+11/24/2024,Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,11654,11497
+11/26/2024,Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,49787,50634
+12/14/2024,Farm Center Idp Camp,Mairi,Jere,Borno,11.88839,13.32141,PHC,yes,no,22749,22764
+12/27/2024,Taimakon Jamaa Health Clinic,Dala Lawanti,Jere,Borno,11.8323,13.31452,PHC,yes,yes,6306,6339
+12/27/2024,Khadammari Health Clinic,Tuba,Jere,Borno,11.92107,13.30946,PHC,yes,no,21269,21490
+12/3/2024,Lambu 2 Idp Camp Clinic,Tuba,Jere,Borno,11.8866,13.30569,PHC,yes,yes,44622,44208
+12/21/2024,Madinatu Idp Camp Clinic,Old Maiduguri,Jere,Borno,11.92997,13.25702,PHC,yes,no,18923,19044
+12/11/2024,Divine Health Clinic,Mairi,Jere,Borno,11.90527,13.30253,PHC,yes,yes,44333,45235
+12/19/2024,Fariya Idp Camp Clinic,Maimusari,Jere,Borno,11.85692,13.34843,PHC,yes,yes,17507,17165
+12/13/2024,Dalori Idp Camp Clinic,Alau,Jere,Borno,11.92076,13.26017,PHC,yes,no,47610,46824
+12/25/2024,Benisheikh Maternal and Child Health,Gomari,Jere,Borno,11.89832,13.25934,PHC,no,yes,54352,54021
+12/22/2024,Elmiskin Idp Clinic,Dusuman,Jere,Borno,11.91205,13.26427,PHC,yes,yes,37907,38104
+12/27/2024,Madinatu Idp Camp,Old Maiduguri,Jere,Borno,11.81364,13.20707,PHC,yes,yes,48802,49639
+12/22/2024,University Of Maiduguri Teaching Hospital Umth,Alau,Jere,Borno,11.85772,13.28938,PHC,yes,yes,52256,51963
+12/8/2024,505 Housing Estate Health Clinic,Mashamari,Jere,Borno,11.90226,13.28055,PHC,yes,yes,27453,27822
+12/2/2024,Fori Clinic,Gongulong,Jere,Borno,11.80049,13.30831,PHC,no,no,10430,10462
+12/10/2024,Laje Clinic,Gongulong,Jere,Borno,11.93058,13.24477,PHC,yes,yes,31729,32234
+12/22/2024,Chase Clinic,Dala Lawanti,Jere,Borno,11.88984,13.27329,PHC,yes,yes,51700,51150
+12/25/2024,Koshebe Clinic,Bale Galtimari,Jere,Borno,11.83613,13.2851,PHC,yes,no,33173,32614
+12/10/2024,202 Clinic,Bale Galtimari,Jere,Borno,11.81926,13.27129,PHC,yes,yes,37850,37620
+12/25/2024,Tamus Ngamdaa Clinic,Dala Lawanti,Jere,Borno,11.93934,13.31329,PHC,yes,no,43393,44069
+12/27/2024,Dusuman Health Center,Maimusari,Jere,Borno,11.86572,13.27764,PHC,yes,yes,48504,48734
+12/18/2024,Dala Clinic,Dusuman,Jere,Borno,11.88827,13.20108,PHC,no,yes,5203,5129
+12/4/2024,Jiddari Primary Health Center,Gongulong,Jere,Borno,11.81063,13.2357,PHC,yes,yes,7410,7514
+12/2/2024,Gongu Along Model Primary Health Center,Bale Galtimari,Jere,Borno,11.83645,13.27095,PHC,yes,yes,36544,37157
+12/26/2024,Gomari Clinic,Mashamari,Jere,Borno,11.87005,13.30936,PHC,yes,no,5802,5775
+12/25/2024,Dalaram Clinic,Ngudda/Addamari,Jere,Borno,11.92009,13.21639,PHC,yes,yes,13190,12982
+12/1/2024,Mashamari Clinic,Gomari,Jere,Borno,11.83747,13.33849,PHC,yes,no,42936,42343
+12/2/2024,Mairi Clinic,Alau,Jere,Borno,11.94535,13.33896,PHC,no,yes,35795,35462
+12/22/2024,Zabamari Clinic,Dusuman,Jere,Borno,11.93537,13.2247,PHC,yes,yes,19988,20392
+12/21/2024,Maimusari Health Clinic,Ngudda/Addamari,Jere,Borno,11.90449,13.30958,PHC,no,no,58149,58204
