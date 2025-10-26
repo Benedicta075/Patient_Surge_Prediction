@@ -92,7 +92,7 @@ plt.show()
 ### 2️⃣ Confusion Matrix
 Visualizing model performance in detecting overloads.
 
-![Confusion Matrix](Visuals/pic2.png)
+![Confusion Matrix](Images/pic2.png)
 
 ```
 sns.heatmap(confusion_matrix(y_test_clf, y_pred_clf), annot=True, fmt='d', cmap='Blues')
