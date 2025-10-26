@@ -77,7 +77,7 @@ Four models were trained and benchmarked:
 ### 1️⃣ Actual vs Predicted Patient Visits
 A scatter plot comparing real and predicted patient volumes.
 
-![Actual vs Predicted Patient Visits](Visuals/pic1.png)
+![Actual vs Predicted Patient Visits](Images/pic1.png)
 
 ```
 plt.figure(figsize=(10,6))
